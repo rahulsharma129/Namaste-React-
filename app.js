@@ -5,7 +5,7 @@ const parent = React.createElement("div",{id:"parent"},[
         React.createElement("h2",{},"I AM H2 TAG")
     ]),
     React.createElement("div",{id:"child2"},[
-        React.createElement("div",{}," Again H1 TAG that not involve in the text "),
+        React.createElement("div",{},"Again H1 TAG"),
         React.createElement("div",{},"Again H2 TAG")
 ]),
 ]);

@@ -1,0 +1,16 @@
+{
+  "name": "nr-01",
+  "version": "1.0.0",
+  "description": "this is namaste react",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/rahulsharma129/Namaste-React-)"
+  },
+  "keywords": [],
+  "author": "rahul sharma",
+  "license": "ISC"
+}
